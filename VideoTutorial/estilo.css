@@ -1,0 +1,31 @@
+.contenedorpricipal{
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    background: rgb(81, 187, 81);
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 30px;
+}
+.cardbody{
+    background: white;
+    height: 90%;
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+body{
+    background-image: url(https://canalhistoria.es/wp-content/uploads/2017/12/blog-estrella.jpg);
+    background-size: cover;
+
+}
+.estilostextos{
+    margin-top: 30px;
+
+}
+.estilotexto2{
+    margin-top: 40px;
+}
