@@ -15,6 +15,7 @@
     padding: 20px;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
+    
 
 }
 body{
@@ -28,4 +29,10 @@ body{
 }
 .estilotexto2{
     margin-top: 40px;
+}
+img{
+    height: 150px;
+    width: auto;
+    margin: auto;
+    display: block;
 }
